@@ -1,0 +1,6 @@
+3 5
+10101
+01010
+10101
+move_delay 0.5
+shoot_delay 1.0
